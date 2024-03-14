@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\jeanc\AppData\Local\Temp\dvcstore
